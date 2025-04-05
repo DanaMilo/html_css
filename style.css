@@ -1,28 +1,17 @@
-h1{
-    color: rgb(255, 23, 120);
+h1 {
+    color:rgb(8, 121, 83);
     background-color: black;
-    border-radius: 15px;
-    padding: 30px;
-    margin: 20px;
-    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 4px dotted none;
 }
-p{
-    color: white;
-    background-color: black;
-    border-radius: 15px;
-    padding: 20px;
-    margin: 10px;
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(0, 0, 0);
+    color:rgb(70, 70, 192);
+    border: 5px margine red;
 
 }
-h2{
-    color: wheat;
-    background-color: rgb(148, 79, 79);
-    background-size: cover;
-    border-radius: 30%;
-    padding: 1%;
-    margin: 5%;
-    border-color: black;
-    border-style: groove;
-    border-width: 10px;
-    text-align: center;
+
+header{
+    
 }
